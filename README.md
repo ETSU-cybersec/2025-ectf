@@ -2,7 +2,7 @@
 
 This repository holds the insecure example design for an eCTF Satellite TV System. 
 
-***This is my personal fork of the MITRE Cyber Academy 2025 Insecure Reference Design per Organizer direction***
+***This is the ETSU CyberBucs fork of the MITRE Cyber Academy 2025 Insecure Reference Design per Organizer direction***
 
 ## Layout
 
